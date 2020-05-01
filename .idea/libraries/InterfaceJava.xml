@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="InterfaceJava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/InterfaceJava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
