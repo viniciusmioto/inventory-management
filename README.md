@@ -1,3 +1,4 @@
 # InterfaceJava
- Java Desktop Inventory Management
+ Java Desktop Inventory Management.
+ 
 It is not finish yet!
